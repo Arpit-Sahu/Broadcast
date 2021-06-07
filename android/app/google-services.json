@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929889489431",
+    "project_id": "broadcast-fa50d",
+    "storage_bucket": "broadcast-fa50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929889489431:android:bbe3376ba58cc78a7cc252",
+        "android_client_info": {
+          "package_name": "com.arpitsahu.broadcast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929889489431-gvbvetkpkh586pdp2dvm3gphjo021tal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlUvWg3qq4kF_P2uDmHJdM6AIWd-maFzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929889489431-gvbvetkpkh586pdp2dvm3gphjo021tal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
